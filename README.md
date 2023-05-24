@@ -4,7 +4,7 @@
 This repository contains the code for the following paper:
 
 > [**Complex Claim Verification with Evidence Retrieved in the Wild
-**]()<br/>
+**](https://arxiv.org/abs/2305.11859)<br/>
 > Jifan Chen, Grace Kim, Aniruddh Sriram, Eunsol Choi, Greg Durrett<br/>
 > Arxiv 2023
 ```
