@@ -1,4 +1,5 @@
-# Compositional Task Configurations
+# Complex Claim Verification with Evidence Retrieved in the Wild 
+
 
 This repository contains the code for the following paper:
 
