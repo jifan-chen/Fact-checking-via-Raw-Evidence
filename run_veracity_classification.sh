@@ -1,16 +1,6 @@
 #!/usr/bin/env bash
 model_name_path="microsoft/deberta-large"
 classifier="models/hf_classifier.py"
-#train_file="/data/users/jfchen/fact-check-via-raw-evidence/data/webR-gnrtQ/gpt-sum/train-003-multi-sites-restricted-time-restricted-05-12.jsonl"
-#validation_file="/data/users/jfchen/fact-check-via-raw-evidence/data/webR-gnrtQ/gpt-sum/dev-003-multi-sites-restricted-time-restricted-05-12.jsonl"
-##test_file="./data/webR-gnrtQ/gpt-sum/table1/test-003-multi-sites-restricted-time-restricted-05-04.jsonl"
-#test_file="/data/users/jfchen/fact-check-via-raw-evidence/data/webR-gnrtQ/gpt-sum/table1/test-003-multi-sites-restricted-time-restricted-05-04.jsonl"
-
-#echo ${test_file}
-#echo ${train_file}
-#echo ${validation_file}
-#exit
-
 train_file="./data/train-site-restricted-wo-search-results.jsonl"
 validation_file="./data/dev-site-restricted-wo-search-results.jsonl"
 test_file="./data/test-site-restricted-wo-search-results.jsonl"
