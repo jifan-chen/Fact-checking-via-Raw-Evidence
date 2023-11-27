@@ -1,6 +1,5 @@
 # Complex Claim Verification with Evidence Retrieved in the Wild 
 
-
 This repository contains the code for the following paper:
 
 > [**Complex Claim Verification with Evidence Retrieved in the Wild
@@ -15,10 +14,6 @@ This repository contains the code for the following paper:
   year={2023}
 }
 ```
-
-## Getting started
-Coming soon ...
-=======
 Contact: jf_chen@utexas.edu if you have any questions.
 
 ## Getting started
